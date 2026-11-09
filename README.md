@@ -2,6 +2,9 @@
 
 Python-based video processing and visual effects project using OpenCV and NumPy.
 
+![Logo Portal Animation](optimized_animation.gif)
+
+
 ## Project Files
 
 | File | Description |
